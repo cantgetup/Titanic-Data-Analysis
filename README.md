@@ -2,6 +2,8 @@
 
 The data is from the Titanic ML competition on Kaggle. The goal is to predict which passengers survived the Titanic shipwreck.
 
+https://www.kaggle.com/c/titanic/overview
+
 `titanic-eda.ipynb` contains visualisations of the data, this is the exploratory analysis before fitting the model. It gives a general ideas about the relationship between the variables.
 
 `titanic-analysis.ipynb` contains the models used to make predictions, after filling missing values and some feature engineering, the following models were used:
